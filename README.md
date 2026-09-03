@@ -49,7 +49,7 @@ Currently focused on:
 <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-`Pandas` • `NumPy` • `Excel Automation` • `Data Processing` • `Business Analytics`
+\`Pandas\` • \`NumPy\` • \`Excel Automation\` • \`Data Processing\` • \`Business Analytics\`
 
 ---
 
@@ -71,11 +71,41 @@ Currently focused on:
 
 ---
 
-## Current Focus
+## What Am I Doing Right Now?
 
-```text
+~~~text
+→ Finishing the details that make projects feel ready
+→ Tightening UI polish and improving readability
+→ Smoothing frontend and backend deployment paths
 → Building useful software instead of tutorial projects
 → Improving backend and system design skills
-→ Learning scalable application architecture
 → Exploring analytics-driven business products
-→ Contributing to open-source when possible
+~~~
+
+---
+
+## Latest GitHub Activity
+
+### Recent Contributions & Pushes
+
+- **NHousing** — Improved UI scale and readability with refreshed typography.
+- **SyncNode** — Configured the Vercel build for the frontend monorepo and documented deployment setup.
+- **portfolio** — Updated the AI/ML portfolio presentation and excluded Cloudflare-only files from the Vercel typecheck.
+- **Metrivo** — Refined the README structure, project story, and technology stack visuals.
+
+### Projects Recently Updated
+
+| Project | Latest update |
+|---|---|
+| [NHousing](https://github.com/devakhil06/NHousing) | UI scale, typography, and readability improvements |
+| [SyncNode](https://github.com/devakhil06/SyncNode) | Frontend/backend deployment configuration |
+| [portfolio](https://github.com/devakhil06/portfolio) | AI/ML portfolio and deployment workflow improvements |
+| [Metrivo](https://github.com/devakhil06/Metrivo) | README and tech stack presentation updates |
+
+<div align="center">
+
+<a href="https://github.com/devakhil06">
+  <img src="https://img.shields.io/badge/GitHub-devakhil06-181717?style=for-the-badge&logo=github" />
+</a>
+
+</div>
